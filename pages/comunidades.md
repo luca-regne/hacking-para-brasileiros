@@ -1,6 +1,6 @@
 # Comunidades
 
-- Boitatech [https://www.boitatech.com.br/
+- [Boitatech](https://www.boitatech.com.br/)
 
 ## Grupos do Telegram
 
