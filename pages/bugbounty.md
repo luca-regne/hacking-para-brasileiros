@@ -7,7 +7,7 @@
 
 ## Grupos
 
-- [Bug Hunter BR](https://bughuntersbr.github.io/]
+- [Bug Hunter BR](https://bughuntersbr.github.io/)
 
 ## Talks
 
