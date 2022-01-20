@@ -16,11 +16,20 @@
 			</td>
 		</tr>
 		<tr>
-			<td> FuzzingTool</td>
+			<td>FuzzingTool</td>
 			<td>
 				<a href="https://github.com/NESCAU-UFLA/FuzzingTool">Repositório</a> e <a href="https://sol.sbc.org.br/index.php/sbseg/article/view/17331"> Artigo Acadêmico</a>
 			</td>
 			<td>Ferramenta de fuzzing desevolvida e mantida pelo Núcleo de Estudos em Segurança Computacional e Auditoria da UFLA (NESCAU).
 			</td>
+		</tr>
+		<tr>
+			<td>TurboSearch</td>
+			<td>
+				<a href="https://github.com/helviojunior/turbosearch">Repositório</a>
+			</td>
+			<td>Esta é uma ferramenta de busca (estilo brute-force) de páginas Web baseada em uma lista de palavras. A Ferramenta foi desenvolvida em Python, tem seu código fonte aberto e suporta multi-threading, ou seja, diversas conexões simultâneas, agilizando o processo de busca.
+			</td>
+		</tr>
 	</tbody>
 </table>
