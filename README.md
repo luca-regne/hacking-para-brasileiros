@@ -6,13 +6,11 @@ Todo conteúdo aqui apresentado é destinado única e exclusivamente para profis
 
 ## Tópicos
 
-- [Cursos](./pages/cursos.md)
+- [Comunidades](./pages/comunidades.md)
 - [Eventos](./pages/eventos.md)
-- [Laboratórios e CTFs](./pages/labs.md)
 - [Canais do Youtube/Twitch](./pages/canais.md)
 - [Podcasts](./pages/podcasts.md)
+- [Laboratórios e CTFs](./pages/labs.md)
+- [Cursos](./pages/cursos.md)
 - [Programas de Bug Bounty](./pages/bugbounty.md)
 - [Ferramentas](./pages/ferramentas.md)
-- [Criadores de conteúdo](./pages/pessoas.md)
-- [Comunidades](./pages/comunidades.md)
-- [Formação Acadêmica](./pages/formacao_academica.md)
