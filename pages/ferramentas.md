@@ -18,7 +18,7 @@
 		<tr>
 			<td> FuzzingTool</td>
 			<td>
-				<a href="https://github.com/NESCAU-UFLA/FuzzingTool">Repositório</a> e <a href="https://sol.sbc.org.br/index.php/sbseg/article/view/17331"> Artigo Acadêmico</a>
+				<a href="https://github.com/NESCAU-UFLA/FuzzingTool">Repositório</a> e <a href="https://sol.sbc.org.br/index.php/sbseg/article/view/17331"> Artigo</a>
 			</td>
 			<td>Ferramenta de fuzzing desevolvida e mantida pelo Núcleo de Estudos em Segurança Computacional e Auditoria da UFLA (NESCAU).
 			</td>
