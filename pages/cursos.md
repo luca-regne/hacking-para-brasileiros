@@ -2,11 +2,13 @@
 
 ## Plataformas
 
+- [DesecSecurity](https://desecsecurity.com/)
 - [GoHacking](https://gohacking.com.br/)
-- [CeCyber](https://cecyber.com/)
+- [Hackaflag](https://hackaflag.com.br/academy.html)
 - [Sec4US](https://sec4us.com.br/)
+- [CeCyber](https://cecyber.com/)
 
-# Cursos Específicos
+## Cursos Específicos
 
 - [Web Hacking na Prática]() pelo [Carlos "Kadu"](https://lp.webhacking.com.br/)
 - [Universidade Hacker](https://hackingnaweb.com/assinatura/) pelo [Rafael "Hacking na Web"](https://www.instagram.com/hackingnaweboficial/)
