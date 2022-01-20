@@ -1,5 +1,7 @@
 # Livros
 
+## Gratuitos
+
 <table>
     <tr>
         <td>Livro</td>
@@ -10,6 +12,20 @@
         <td><a href="menteb.in/livro"> Fundamentos da engenharia reversa </a></td>
         <td>Fernando Mercês (@mer0x36) </td>
         <td>Este livro é mais um projeto da Mente Binária. Ele consiste o resultado de um extenso trabalho de organização de conteúdo e escrita após centenas de horas de aulas ministradas sobre engenharia reversa de software para iniciantes. A intenção é documentar os conhecimentos fundamentais necessários para a formação dos novos engenheiros reversos.</td>
+    </tr>
+    <tr>
+        <td> <a href="https://www.livrodeseguranca.com/"> Gestão da Segurança da Informação: Uma visão executiva</td>
+        <td>Marcos Sêmola</td>
+        <td>Passados 20 anos de escrito e editado, tempo em que as práticas de gestão de segurança da informação ainda eram um "mato alto”, chegou o momento de tornar pública a íntegra do best seller que, por anos, serviu de referência para professores, graduandos, mestrandos, doutorandos e profissionais de gestão de riscos que hoje atuam no mercado de trabalho.</td>
+</table>
+
+
+## Traduções
+<table>
+    <tr>
+        <td>Livro</td>
+        <td>Autor</td>
+        <td>Descrição</td>
     </tr>
     <tr>
         <td>Testes de Invasão: uma Introdução Prática ao Hacking</td>
