@@ -45,6 +45,15 @@
             <td>Bug Hunter, search vulnerability VDP & Priv Department of defense. I do recons lives, owner of the KingOfBugBounty project.</td>
         </tr>
         <tr>
+            <td>Brasil inSeguro</td>
+            <td>
+                <a href="https://www.youtube.com/c/BrasilinSeguro"> Youtube</a>
+            </td>
+            <td>
+                Brasil inSeguro, o canal que vai te ensinar tudo sobre segurança, tecnologia e inovação para negócios. Nossa missão é educar o mercado sobre cibersegurança e construir um Brasil com empresas mais seguras. 
+            </td>
+        </tr>
+        <tr>
             <td>caioludesr</td>
             <td>
                 <a href="https://www.twitch.tv/caioluders">Twitch</a>
