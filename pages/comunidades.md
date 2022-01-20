@@ -4,7 +4,7 @@
 
 ## Grupos do Telegram
 
-- [Bug Hunter BR](https://bughuntersbr.github.io/]
+- [Bug Hunter BR](https://bughuntersbr.github.io/)
 
 ## Servidores no Discord
 
