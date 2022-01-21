@@ -12,5 +12,7 @@ Todo conteúdo aqui apresentado é destinado única e exclusivamente para profis
 - [Podcasts](./pages/podcasts.md)
 - [Laboratórios e CTFs](./pages/labs.md)
 - [Cursos](./pages/cursos.md)
+- [Livros](./pages/livros.md)
 - [Programas de Bug Bounty](./pages/bugbounty.md)
 - [Ferramentas](./pages/ferramentas.md)
+- [Sites](./pages/sites.md)
