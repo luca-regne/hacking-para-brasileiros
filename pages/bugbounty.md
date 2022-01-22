@@ -5,6 +5,10 @@
 - [BugHunt](https://www.bughunt.com.br/)
 - [Hackaflag](https://hackaflag.com.br/bug-bounty-pesquisadores.html)
 
+## Programas
+
+- [Nubank](https://hackerone.com/nubank)
+
 ## Grupos
 
 - [Bug Hunter BR](https://bughuntersbr.github.io/]
