@@ -14,12 +14,20 @@
             </td>
             <td>O canal é um projeto da Mente Binária sobre tecnologia da informação com o objetivo de integrar profissionais de TI, explorar projetos colaborativos e contribuir para a difusão de conhecimento através de discussões, tutoriais e entrevistas com grandes nomes da área, além profissionais que, de forma sempre descontraída, contam sobre seus projetos e sua carreira. Então você que é de TI ou tem interesse na área, puxa uma cadeira, abre uma cerveja e ouve o papo! 😉</td>
         </tr>
+                <tr>
+            <td>Hardware Hacking</td>
+            <td>
+                <a href="https://www.youtube.com/channel/UCEyOwgMMfo8aJc4vZm6mYWw">Youtube</a>
+            </td>
+            <td>O canal Hardware Hacking destina-se a apresentar tecnologias derivadas da segurança da informação. Tutoriais sobre dispositivos eletrônicos, testes de invasão, dispositivos IoT e gadgets para segurança ofensiva.
+Você tem interesse em hacking e eletrônica? então se inscreva e acompanhe os vídeos!</td>
+        </tr>
          <tr>
             <td>Guia Anônima</td>
             <td>
                 <a href="https://www.youtube.com/channel/UCkfyKm2S5eSurJDt3TATq-A">Youtube</a>
             </td>
-            <td></td>
+            <td>Olá seja bem-vindo ao Guia Anônima, um canal que fala sobre Segurança da Informação e Hacking</td>
         </tr>
         <tr>
             <td>Hacking Esports</td>
