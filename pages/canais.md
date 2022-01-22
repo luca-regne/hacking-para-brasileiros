@@ -60,6 +60,15 @@
             </td>
             <td></td>
         </tr>
+         <tr>
+            <td>Safe Source</td>
+            <td>
+                <a href="https://www.youtube.com/channel/UCWFmlmegFcu6lvAmeBtV3cg"> Youtube</a>
+            </td>
+            <td>
+                 Segurança no desenvolvimento de software. Aprenda conosco como tornar seu software mais seguro e avaliar a segurança do seu processo de desenvolvimento. 
+            </td>
+        </tr>
     </tbody>
 
 </table>

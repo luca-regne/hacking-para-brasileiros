@@ -11,8 +11,8 @@
 
 ## Grupos
 
-- [Bug Hunter BR](https://bughuntersbr.github.io/]
+- [Bug Hunter BR](https://bughuntersbr.github.io/)
 
 ## Talks
 
-- [Do Pentest ao Bug Bounty: Dicas e Truques para começar | Ariel Garcia - Roadsec Belo Horizonte 2019 (inglês com legendas em português)](https://www.youtube.com/watch?v=BwbpGzbLscA)
+- [Do Pentest ao Bug Bounty: Dicas e Truques para começar | Ariel Garcia](https://www.youtube.com/watch?v=BwbpGzbLscA)
