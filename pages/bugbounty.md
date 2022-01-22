@@ -120,6 +120,6 @@
 
 - [Bug Hunter BR](https://bughuntersbr.github.io/)
 
-## Talks
+## Palestras
 
 - [Do Pentest ao Bug Bounty: Dicas e Truques para começar | Ariel Garcia](https://www.youtube.com/watch?v=BwbpGzbLscA)
