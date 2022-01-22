@@ -8,6 +8,10 @@
 ## Programas
 
 - [Nubank](https://hackerone.com/nubank)
+- [HostGator Brasil](https://hackerone.com/hostgator_brasil)
+- [eHow Brasil](https://hackerone.com/ehow_brasil)
+- [BRF Brasil](https://hackerone.com/brfbrasil?type=team)
+- [Banco do Brasil S.A.](https://hackerone.com/bancodobrasil?type=team)
 
 ## Grupos
 
