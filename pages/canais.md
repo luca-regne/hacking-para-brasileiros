@@ -8,6 +8,13 @@
             <td>Descrição</td>
         </tr>
         <tr>
+            <td>KVR</td>
+            <td>
+                <a href="https://www.youtube.com/channel/UCNW-yX8ZSWfnDPOIRUr072w">Youtube</a> e <a href="https://www.twitch.tv/kenzovirusresearcher"> Twitch</a>
+            </td>
+            <td>Foco em estudo, análise, desenvolvimento e profilaxia de artefatos maliciosos (malwares).</td>
+        </tr>
+        <tr>
             <td>Papo Binário</td>
             <td>
                 <a href="https://www.youtube.com/channel/UCuQ8zW9VmVyml7KytSqJDzg">Youtube</a>
