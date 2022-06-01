@@ -5,7 +5,6 @@
         <tr>
             <td> Evento </td>
             <td> Localização</td>
-            <td> Descrição</td>
         <tr>
             <td> <a href="https://www.roadsec.com.br/">Roadsec</a> </td>
             <td> Ocorre em diversos estados, sendo o maior e mais famosos em São Paulo</td>
