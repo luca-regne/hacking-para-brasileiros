@@ -7,12 +7,12 @@
 - [CEB - Curso de Exploração de Binários](https://www.youtube.com/playlist?list=PLIfZMtpPYFP4MaQhy_iR8uM0mJEs7P7s3) por [Papo Binário](https://www.youtube.com/c/PapoBin%C3%A1rio)
 - [Curso de GHidra](https://www.youtube.com/playlist?list=PLIfZMtpPYFP5orPxcOZBn5cLOu7WG8xuF) por [Papo Binário](https://www.youtube.com/c/PapoBin%C3%A1rio)
 - [AMO - Aálise de MalwareOnline](https://www.youtube.com/playlist?list=PLIfZMtpPYFP7281QqcwivCTuKeelXxg7G) por [Papo Binário](https://www.youtube.com/c/PapoBin%C3%A1rio)
+- [Python para Pentesters](https://www.youtube.com/watch?v=KsUTiurSGJM&list=PLY-Tw02f5SDIP3CRtcaenRQc8Yz52m6XZ) pelo [Vitor Oriel](https://www.linkedin.com/in/vitor-oriel-borges/)
 
 ## Pagos
 - [Web Hacking na Prática](https://lp.webhacking.com.br/) - [CrowSec EdTech](https://crowsec.com.br/)
 - [Universidade Hacker](https://hackingnaweb.com/assinatura/) pelo [Rafael "Hacking na Web"](https://www.instagram.com/hackingnaweboficial/)
 - [Hardware Hacking, IoT Pentest e Red Team Gadgets](https://go.hotmart.com/K65425607M?dp=1) pelo [Julio Della Flora](https://www.instagram.com/juliodellaflora/)
-- [Python para Pentesters](https://www.youtube.com/watch?v=KsUTiurSGJM&list=PLY-Tw02f5SDIP3CRtcaenRQc8Yz52m6XZ) pelo [Vitor Oriel](https://www.linkedin.com/in/vitor-oriel-borges/)
 
 ## Plataformas
 
