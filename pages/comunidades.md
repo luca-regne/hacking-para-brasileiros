@@ -9,3 +9,4 @@
 ## Servidores no Discord
 
 - [Mente Binária](http://menteb.in/discord)
+- [Boitatech](https://discord.com/invite/WtBc6Q7mxD)
