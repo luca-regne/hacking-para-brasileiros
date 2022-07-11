@@ -35,6 +35,7 @@
                 <a href="https://mindthesec.com.br">Mind the Sec</a>
             </td>
             <td> Virtual </td>
+            <td></td>
         </tr>
         <tr>
             <td>
