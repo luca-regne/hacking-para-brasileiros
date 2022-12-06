@@ -28,7 +28,6 @@
                     <li>*portal.nuinvest.com.br</li>
                 </ul>
             </td>
-            <td></td>
         </tr>
         <tr>
             <td>
@@ -39,10 +38,22 @@
             </td>
             <td>
                 <ul>
-                    <li>bb.com.br</li>
+                    <li> https://www.ifood.com.br </li>
+                    <li> iFood Customer iOS Application	</li>
+                    <li> iFood Customer Android Application	</li>
+                    <li> https://marketplace.ifood.com.br </li>
+                    <li> https://wsloja.ifood.com.br </li>
+                    <li> https://wslatam.ifood.com.br </li>
+                    <li> https://static-images.ifood.com.br	</li>
+                    <li> https://shop.ifood.com.br </li>
+                    <li> https://api.fstr.rocks	</li>
+                    <li> https://rc.fstr.rocks </li>
                 </ul>
             </td>
-            <td></td>
+            <td>
+                <li> blog-empresas.ifood.com.br	</li>  
+                <li> blog-parceiros.ifood.com.br </li> 
+            </td>
         </tr>
         <tr>
             <td>
