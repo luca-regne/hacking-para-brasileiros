@@ -71,15 +71,15 @@ Todo conteúdo aqui apresentado é destinado única e exclusivamente para profis
 
 # Eventos
 
-| Evento                                                          | Localização                                                           | Data                    |
-| --------------------------------------------------------------- | --------------------------------------------------------------------- | ----------------------- |
-| [Roadsec](https://www.roadsec.com.br/)                          | Ocorre em diversos estados, sendo o maior e mais famosos em São Paulo | 09/07/2022              |
-| [H2HC](https://www.h2hc.com.br/)                                | São Paulo - SP                                                        | 01/10/2022              |
-| [NullByte Security Conference](https:BA//www.nullbyte-con.org/) | Salvador - BA                                                         | 12/11/2022              |
-| [BHack](https://www.bhack.com.br/)                              | Belo Horizonte - MG                                                   | 24/11/2022 - 25/11/2022 |
-| [Mind the Sec](https://mindthesec.com.br)                       | Virtual                                                               |                         |
-| [BSides São Paulo](https://www.securitybsides.com.br/)          | Sâo Paulo - SP                                                        | Não divulgado           |
-| [BSides João Pessoa](https://www.bsidesjp.com.br/)              | João Pessoa - PB                                                      | 24/09/2022              |
+| Evento                                                          | Localização                                                           
+| --------------------------------------------------------------- | --------------------------------------------------------------------- |
+| [Roadsec](https://www.roadsec.com.br/)                          | Ocorre em diversos estados, sendo o maior e mais famosos em São Paulo |
+| [H2HC](https://www.h2hc.com.br/)                                | São Paulo - SP                                                        |
+| [NullByte Security Conference](https:BA//www.nullbyte-con.org/) | Salvador - BA                                                         |
+| [BHack](https://www.bhack.com.br/)                              | Belo Horizonte - MG                                                   |
+| [Mind the Sec](https://mindthesec.com.br)                       | Virtual                                                               |
+| [BSides São Paulo](https://www.securitybsides.com.br/)          | Sâo Paulo - SP                                                        |
+| [BSides João Pessoa](https://www.bsidesjp.com.br/)              | João Pessoa - PB                                                      |
 
 # Ferramentas
 
